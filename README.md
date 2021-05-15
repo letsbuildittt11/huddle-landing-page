@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-qgBsUGTX0]
+- Live Site URL: [https://letsbuildittt11.github.io/huddle-landing-page/]
 
 ## My process
 
